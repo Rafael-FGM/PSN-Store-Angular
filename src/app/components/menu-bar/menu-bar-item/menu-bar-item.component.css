@@ -1,0 +1,29 @@
+.menu-bar_item{
+    display: flex;
+    margin: auto;    
+}
+
+.menu-bar_item > ul{
+    margin-left: 500px;
+    margin-top: 5px;
+    display: flex;
+    list-style-type: none;
+}
+
+.menu-bar_item > ul > li{
+    padding: 5px;   
+    margin-right: 15px;
+    justify-content: center;
+}
+
+.menu-bar_item > ul > li > a{
+    text-decoration: none;
+    padding: 5px;
+    color: rgba(2,0,36,1); 
+    font-family: 'Segoe UI';
+}
+
+.menu-bar_item >ul >li >a:hover{
+    color:darkgoldenrod;
+    font-weight:400;
+}

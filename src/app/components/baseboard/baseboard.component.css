@@ -1,0 +1,13 @@
+
+.baseboard_container{
+    margin-top: 475px;
+    text-align: center;
+    
+}
+.baseboard_container > h2{
+    font-family: 'Segoe UI';
+    height: 40px;  
+    color: darkgoldenrod;
+    font-weight: bolder;
+}
+
