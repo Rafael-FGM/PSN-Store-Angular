@@ -1,27 +1,10 @@
-# Store
+# PSN Store
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+Bem-vindo à PSN Store, sua central digital para explorar o vasto e emocionante universo dos jogos PlayStation! Este repositório é dedicado a proporcionar uma experiência visual e informativa sobre os jogos mais incríveis disponíveis na PlayStation Network.
 
-## Development server
+## Galeria de Jogos
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Navegue por nossa extensa coleção de fotos, capturas de tela e arte conceitual dos jogos mais recentes e clássicos. De aventuras épicas a emocionantes jogos multiplayer, a PSN Store oferece uma visão única dos mundos virtuais que você pode explorar.
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Preparado para uma jornada de descobertas virtuais? 🎮✨
